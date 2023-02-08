@@ -108,12 +108,22 @@ Here are some ideas to get you started:
 
 <td align="center" width="20%">
 <span><b><center>Qliksense</center></b></span> 
-<img height=65px src="[https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.engineeringforchange.org%2Fwp-content%2Fuploads%2F2018%2F08%2Fqlik-sense-logo.png&imgrefurl=https%3A%2F%2Fwww.engineeringforchange.org%2Fsolutions%2Fproduct%2Fqlik-sense%2F&tbnid=2t3TDhAe2VnBlM&vet=12ahUKEwin3bjWoIX9AhWn0HMBHa4VA6QQMygGegUIARDsAQ..i&docid=jbUMe_aAW1ItHM&w=400&h=400&q=qliksense&safe=active&ved=2ahUKEwin3bjWoIX9AhWn0HMBHa4VA6QQMygGegUIARDsAQ](https://zappysys.com/blog/wp-content/uploads/2018/07/logo-qlik-sense.png)"> 
+<img height=65px src="https://www.engineeringforchange.org/wp-content/uploads/2018/08/qlik-sense-logo.png"> 
 </td>
 
 <td align="center" width="20%">
 <span><b><center>Alteryx</center></b></span> 
 <img height=65px src="https://d2vutrdw2j46fm.cloudfront.net/5e95d22e5aa8bf3a953eb9ae/public/5f6363b111fc7e2678545978.png"> 
+</td>
+ 
+<td align="center" width="20%">
+<span><b><center>Angular</center></b></span> 
+<img height=65px src="https://www.freecodecamp.org/news/content/images/2020/04/Copy-of-Copy-of-Travel-Photography.png"> 
+</td>
+ 
+ <td align="center" width="20%">
+<span><b><center>PowerApps</center></b></span> 
+<img height=65px src="https://valto.co.uk/wp-content/uploads/2020/03/PowerAppsLogo.png"> 
 </td>
 
 </tr>
