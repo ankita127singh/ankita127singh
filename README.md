@@ -1,10 +1,13 @@
 <h1 align="center"> Hi There 👋 </h1>
 
 * I am [Ankita Singh](https://www.linkedin.com/in/ankita-singh-7b8860184/) :smiley:	 <br>
-* Currently I am a third year student from KIIT, Bhubaneswar in Computer Science :computer:
+* Currently I am Associate Analyst in Hyderabad:
 * Interests and experience :
   * Cloud computing:cloud:
   * Mobile app development:iphone:
+  * Data Analytics:
+  * Data Science:
+  * Machine Learning:
   
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github
 
