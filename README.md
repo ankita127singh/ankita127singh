@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 <tr>
 <td align="center" width="20%">
 <span><b><center>Terraform</center></b></span> 
-<img height=65px src="https://www.terraform.io/assets/images/og-image-8b3e4f7d.png"> 
+<img height=65px src="https://www.datocms-assets.com/58478/1640019487-og-image.png"> 
 </td>
 
 <td align="center" width="20%">
@@ -105,7 +105,8 @@ Here are some ideas to get you started:
 <span><b><center>Python</center></b></span> 
 <img height=65px src="https://www.python.org/static/community_logos/python-logo.png"> 
 </td>
-
+</tr>
+<tr>
 <td align="center" width="20%">
 <span><b><center>Qliksense</center></b></span> 
 <img height=65px src="https://www.engineeringforchange.org/wp-content/uploads/2018/08/qlik-sense-logo.png"> 
@@ -125,10 +126,7 @@ Here are some ideas to get you started:
 <span><b><center>PowerApps</center></b></span> 
 <img height=65px src="https://valto.co.uk/wp-content/uploads/2020/03/PowerAppsLogo.png"> 
 </td>
-
 </tr>
-
-
 </tbody>
 </table>
 
