@@ -30,16 +30,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Flutter app development
-
-- 🌱 I’m currently learning Flutter with dart and Python
-
-- 🤔 I’m looking for help with Web Development
-
-
-
-
-
+- 🔭 I’m currently trying to learn Guitar.
 
 
 
@@ -114,6 +105,17 @@ Here are some ideas to get you started:
 <span><b><center>Python</center></b></span> 
 <img height=65px src="https://www.python.org/static/community_logos/python-logo.png"> 
 </td>
+
+<td align="center" width="20%">
+<span><b><center>Python</center></b></span> 
+<img height=65px src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.engineeringforchange.org%2Fwp-content%2Fuploads%2F2018%2F08%2Fqlik-sense-logo.png&imgrefurl=https%3A%2F%2Fwww.engineeringforchange.org%2Fsolutions%2Fproduct%2Fqlik-sense%2F&tbnid=2t3TDhAe2VnBlM&vet=12ahUKEwin3bjWoIX9AhWn0HMBHa4VA6QQMygGegUIARDsAQ..i&docid=jbUMe_aAW1ItHM&w=400&h=400&q=qliksense&safe=active&ved=2ahUKEwin3bjWoIX9AhWn0HMBHa4VA6QQMygGegUIARDsAQ"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>Python</center></b></span> 
+<img height=65px src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fd2vutrdw2j46fm.cloudfront.net%2F5e95d22e5aa8bf3a953eb9ae%2Fpublic%2F5f6363b111fc7e2678545978.png&imgrefurl=https%3A%2F%2Fmarketplace.thomsonreuters.com%2Fdetails%2Falteryx-designer-1&tbnid=dwG2GVHiibkYQM&vet=12ahUKEwjr___poIX9AhWyKbcAHdIRDw4QMygIegUIARDuAQ..i&docid=XMA7ewCN0pW0oM&w=320&h=320&q=Alteryx&safe=active&ved=2ahUKEwjr___poIX9AhWyKbcAHdIRDw4QMygIegUIARDuAQ"> 
+</td>
+
 </tr>
 
 
