@@ -95,8 +95,8 @@ Here are some ideas to get you started:
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Linux</center></b></span> 
-<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png"> 
+<span><b><center>PowerApps</center></b></span> 
+<img height=65px src="https://valto.co.uk/wp-content/uploads/2020/03/PowerAppsLogo.png"> 
 </td>
 
 
@@ -120,11 +120,6 @@ Here are some ideas to get you started:
 <td align="center" width="20%">
 <span><b><center>Angular</center></b></span> 
 <img height=65px src="https://www.freecodecamp.org/news/content/images/2020/04/Copy-of-Copy-of-Travel-Photography.png"> 
-</td>
- 
- <td align="center" width="20%">
-<span><b><center>PowerApps</center></b></span> 
-<img height=65px src="https://valto.co.uk/wp-content/uploads/2020/03/PowerAppsLogo.png"> 
 </td>
 </tr>
 </tbody>
